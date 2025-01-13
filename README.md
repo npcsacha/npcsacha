@@ -4,12 +4,8 @@
 - 💞️ I’m looking to collaborate on mods
 - 📫 How to reach me : npc7sacha@gmail.com
 
-<!---
-npcsacha/npcsacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <a href="https://discord.com/users/837620019692568577">
-  <img src="https://lanyard-profile-readme.vercel.app/api/837620019692568577?" align="middle"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/837620019692568577?" align="right"/>
 </a>
